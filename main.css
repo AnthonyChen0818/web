@@ -6,7 +6,9 @@ h3 {color: red}
 
 body {background-color: darkgrey}
 
-p {font-family: "Times New Roman", Times, serif}
+p {font-family: "Times New Roman", Times, serif
+font-size: 10px
+}
 
 img {border: thick double black}
 
