@@ -1,19 +1,11 @@
-h1 {
-    color: blue
-}
+h1 {color: blue}
 
-h2 {
-    color: green
-}
+h2 {color: green}
 
-h3 {
-    color: red
-}
+h3 {color: red}
 
-p {
-    font-size: large
-}
+body {background-color: lightgrey}
 
-body {
-    background-color: grey
-}
+p {font-size: 1.2 normal 16px serif}
+
+img {border: thick}
