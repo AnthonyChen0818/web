@@ -8,4 +8,6 @@ body {background-color: lightgrey}
 
 p {font-family: "Times New Roman", Times, serif}
 
-img {border: thick}
+img {border: thick double black}
+
+a {color: orange}
